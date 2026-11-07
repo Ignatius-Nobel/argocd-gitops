@@ -9,7 +9,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/discover-devops/argocd-gitops-mega-lab.git
+    repoURL: https://github.com/Ignatius-Nobel/argocd-gitops.git
     targetRevision: main
     path: LAB_2/k8s/taskflow
   destination:
