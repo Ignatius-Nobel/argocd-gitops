@@ -54,7 +54,7 @@ spec:
             - name: APP_VERSION
               value: "1.2.0"
             - name: APP_MESSAGE
-              value: "Deployed automatically - nobody clicked Sync"
+              value: "Deployed automatically - nobody clicked sync"
             - name: APP_ENV
               value: "dev"
             # --------------------------------------------------------------------
